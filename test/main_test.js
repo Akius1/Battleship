@@ -6,4 +6,4 @@ describe('Mocha', () => {
     it('Should run our test using npm', ()=> {
         expect(true).to.be.ok;
     })
-})
+});
